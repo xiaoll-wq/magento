@@ -1,0 +1,1 @@
+/usr/share/nginx/html/magento/app/code/Magento/AsynchronousOperations/view/adminhtml/web/js/insert-form.js

@@ -1,0 +1,1 @@
+/usr/share/nginx/html/magento/app/code/Magento/Ui/view/base/web/js/core/app.js

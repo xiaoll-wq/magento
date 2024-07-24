@@ -1,0 +1,1 @@
+/usr/share/nginx/html/magento/app/code/Magento/ReleaseNotification/view/adminhtml/web/js/modal/component.js

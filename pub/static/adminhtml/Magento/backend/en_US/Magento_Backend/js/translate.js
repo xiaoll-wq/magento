@@ -1,0 +1,1 @@
+/usr/share/nginx/html/magento/app/code/Magento/Backend/view/adminhtml/web/js/translate.js

@@ -1,0 +1,1 @@
+/usr/share/nginx/html/magento/app/code/Magento/AdminNotification/view/adminhtml/web/js/grid/columns/message.js

@@ -1,0 +1,1 @@
+/usr/share/nginx/html/magento/app/code/Magento/Cookie/view/base/web/js/jquery.storageapi.extended.js
